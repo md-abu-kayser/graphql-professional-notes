@@ -1,0 +1,23 @@
+# Introspection disabling in production
+
+> Section: `09-security`
+
+## Overview
+
+_Notes for this topic go here._
+
+## Key Points
+
+- 
+- 
+- 
+
+## Examples
+
+```graphql
+
+```
+
+## References
+
+- 
