@@ -1,23 +1,5 @@
-# Performance and caching
+# Subscriptions for Order Updates
 
-> Section: `12-real-world-projects/02-ecommerce-graphql-api`
+Real‑time order status updates via WebSocket subscription.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Performance & Caching](04-performance-and-caching.md)

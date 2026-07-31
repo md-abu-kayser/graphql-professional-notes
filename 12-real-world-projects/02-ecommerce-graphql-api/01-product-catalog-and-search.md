@@ -1,23 +1,5 @@
-# Product catalog and search
+# Ecommerce GraphQL – Product Catalog & Search
 
-> Section: `12-real-world-projects/02-ecommerce-graphql-api`
+Schema for products, categories, filtering, full‑text search (via database).
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Cart & Checkout Mutations](02-cart-and-checkout-mutations.md)

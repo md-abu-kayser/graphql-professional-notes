@@ -1,23 +1,5 @@
-# Cart and checkout mutations
+# Cart & Checkout Mutations
 
-> Section: `12-real-world-projects/02-ecommerce-graphql-api`
+Add to cart, update quantity, checkout with payment intent.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Subscriptions for Order Updates](03-subscriptions-for-order-updates.md)
