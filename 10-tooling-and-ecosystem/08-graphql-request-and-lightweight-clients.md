@@ -1,23 +1,5 @@
-# Graphql request and lightweight clients
+# GraphQL Request & Lightweight Clients
 
-> Section: `10-tooling-and-ecosystem`
+`graphql-request`: minimal, promise‑based. Good for scripts, server‑to‑server.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [GraphQL IDEs – Altair, Postman](09-graphql-ides-altair-postman.md)

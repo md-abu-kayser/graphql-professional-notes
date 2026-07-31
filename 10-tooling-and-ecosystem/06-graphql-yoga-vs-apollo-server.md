@@ -1,23 +1,5 @@
-# Graphql yoga vs apollo server
+# GraphQL Yoga vs Apollo Server
 
-> Section: `10-tooling-and-ecosystem`
+Yoga is faster, built on cross‑platform `@graphql-tools`. Apollo has richer ecosystem, managed federation.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Mercurius – Fastify GraphQL](07-mercurius-fastify-graphql.md)

@@ -1,23 +1,5 @@
-# Mercurius fastify graphql
+# Mercurius (Fastify GraphQL)
 
-> Section: `10-tooling-and-ecosystem`
+GraphQL adapter for Fastify, great performance, supports subscriptions, federation.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [GraphQL Request & Lightweight Clients](08-graphql-request-and-lightweight-clients.md)

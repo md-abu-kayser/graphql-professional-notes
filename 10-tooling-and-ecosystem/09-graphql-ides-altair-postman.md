@@ -1,23 +1,5 @@
-# Graphql ides altair postman
+# GraphQL IDEs – Altair, Postman
 
-> Section: `10-tooling-and-ecosystem`
+Altair: feature‑rich desktop client. Postman supports GraphQL queries with variables and schema fetching.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: **11-federation-and-microservices** – [Apollo Federation v2 Overview](../11-federation-and-microservices/01-apollo-federation-v2-overview.md)
