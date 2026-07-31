@@ -1,23 +1,5 @@
-# Presence and typing indicators
+# Presence & Typing Indicators
 
-> Section: `12-real-world-projects/04-chat-app-graphql-subscriptions`
+Subscription to `userTyping` and `userOnline` events.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Scaling with Redis PubSub](03-scaling-with-redis-pubsub.md)

@@ -1,23 +1,5 @@
-# Scaling with redis pubsub
+# Scaling with Redis PubSub
 
-> Section: `12-real-world-projects/04-chat-app-graphql-subscriptions`
+Use `graphql-redis-subscriptions` to broadcast events across instances.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: **Federated Microservices Architecture** – [Service Boundaries & Subgraphs](../05-federated-microservices-architecture/01-service-boundaries-and-subgraphs.md)

@@ -1,23 +1,5 @@
-# Messaging schema
+# Chat App – Messaging Schema
 
-> Section: `12-real-world-projects/04-chat-app-graphql-subscriptions`
+Types: `Message`, `Room`, `User`. Subscriptions for new messages.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Presence & Typing Indicators](02-presence-and-typing-indicators.md)
