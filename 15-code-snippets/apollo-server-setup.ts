@@ -1,4 +1,8 @@
-// Apollo server setup
-// GraphQL Professional Notes — 15-code-snippets/apollo-server-setup.ts
-
-// TODO: add example implementation
+import { ApolloServer } from "@apollo/server";
+import { startStandaloneServer } from "@apollo/server/standalone";
+const typeDefs = `#graphql
+  type Query { hello: String }
+`;
+const resolvers = { Query: { hello: () => "Hello world!" } };
+const server = new ApolloServer({ typeDefs, resolvers });
+startStandaloneServer(server, { listen: { port: 4000 } });
