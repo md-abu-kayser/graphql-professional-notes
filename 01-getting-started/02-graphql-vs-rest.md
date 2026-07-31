@@ -1,23 +1,8 @@
-# Graphql vs rest
+# GraphQL vs REST
 
-> Section: `01-getting-started`
+- Over‑fetching / under‑fetching: GraphQL solves with flexible queries.
+- Single endpoint vs multiple endpoints.
+- Strong type system.
+- GraphQL lacks built‑in caching (requires extra effort).
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Core Concepts – Query, Mutation, Subscription](03-core-concepts-query-mutation-subscription.md)

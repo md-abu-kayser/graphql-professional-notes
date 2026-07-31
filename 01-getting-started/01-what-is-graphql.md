@@ -1,23 +1,5 @@
-# What is graphql
+# What is GraphQL?
 
-> Section: `01-getting-started`
+A query language for APIs and a runtime for fulfilling those queries with your existing data. Developed by Facebook. Clients request exactly the data they need.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [GraphQL vs REST](02-graphql-vs-rest.md)
