@@ -1,23 +1,5 @@
-# Youtube channels
+# YouTube Channels
 
-> Section: `16-resources-cheatsheets`
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+- Apollo GraphQL (official)
+- Ben Awad (GraphQL tutorials)
+- The Net Ninja (GraphQL series)

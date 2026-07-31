@@ -1,23 +1,6 @@
-# Interview questions
+# Books & Courses
 
-> Section: `16-resources-cheatsheets`
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+- _Learning GraphQL_ by Eve Porcello & Alex Banks
+- _Production‑Ready GraphQL_ by Marc‑André Giroux
+- _The GraphQL Guide_ by John Resig & Loren Sands‑Ramshaw
+- Apollo Odyssey (free interactive tutorial)

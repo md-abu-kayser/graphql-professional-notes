@@ -1,23 +1,6 @@
-# Blogs newsletters communities
+# Blogs, Newsletters & Communities
 
-> Section: `16-resources-cheatsheets`
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+- Apollo Blog
+- The Guild Blog
+- GraphQL Weekly
+- GraphQL Summit / Conf recordings
