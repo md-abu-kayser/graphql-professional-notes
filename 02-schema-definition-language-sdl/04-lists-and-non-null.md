@@ -1,23 +1,5 @@
-# Lists and non null
+# Lists & Non‑Null
 
-> Section: `02-schema-definition-language-sdl`
+`[String]` – nullable list of nullable strings. `[String!]!` – non‑null list of non‑null strings.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Interfaces](05-interfaces.md)

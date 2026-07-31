@@ -1,23 +1,10 @@
-# Object types and fields
-
-> Section: `02-schema-definition-language-sdl`
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
+# Object Types & Fields
 
 ```graphql
-
+type User {
+  id: ID!
+  name: String!
+  email: String
+  posts: [Post!]!
+}
 ```
-
-## References
-
-- 

@@ -1,23 +1,6 @@
-# Input types
-
-> Section: `02-schema-definition-language-sdl`
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
+# Input Types
 
 ```graphql
-
+input CreateUserInput { name: String!; email: String! }
+type Mutation { createUser(input: CreateUserInput!): User! }
 ```
-
-## References
-
-- 

@@ -1,23 +1,6 @@
 # Interfaces
 
-> Section: `02-schema-definition-language-sdl`
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
 ```graphql
-
+interface Node { id: ID! }
+type User implements Node { id: ID!; name: String! }
 ```
-
-## References
-
-- 

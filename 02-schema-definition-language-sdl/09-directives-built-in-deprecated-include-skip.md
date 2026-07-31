@@ -1,23 +1,7 @@
-# Directives built in deprecated include skip
+# Built‑in Directives
 
-> Section: `02-schema-definition-language-sdl`
+- `@deprecated(reason: String)`
+- `@include(if: Boolean!)` – conditional field inclusion.
+- `@skip(if: Boolean!)` – conditional exclusion.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: **03-queries-and-mutations** – [Queries & Field Resolution](../03-queries-and-mutations/01-queries-and-field-resolution.md)

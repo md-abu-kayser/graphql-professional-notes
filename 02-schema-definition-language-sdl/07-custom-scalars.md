@@ -1,23 +1,5 @@
-# Custom scalars
-
-> Section: `02-schema-definition-language-sdl`
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
+# Custom Scalars
 
 ```graphql
-
+scalar DateTime
 ```
-
-## References
-
-- 

@@ -1,23 +1,5 @@
-# Scalar types int float string boolean id
+# Scalar Types
 
-> Section: `02-schema-definition-language-sdl`
+`Int`, `Float`, `String`, `Boolean`, `ID` (serialised as String, unique). Represent leaf values.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Object Types & Fields](02-object-types-and-fields.md)
