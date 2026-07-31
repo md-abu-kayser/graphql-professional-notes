@@ -1,23 +1,5 @@
-# Authentication in subscriptions
+# Authentication in Subscriptions
 
-> Section: `06-subscriptions`
+Send token in `connectionParams` during WebSocket handshake. Validate before accepting.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Scaling Subscriptions with Redis / Kafka](05-scaling-subscriptions-with-redis-kafka.md)

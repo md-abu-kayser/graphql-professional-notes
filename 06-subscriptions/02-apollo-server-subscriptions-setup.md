@@ -1,23 +1,7 @@
-# Apollo server subscriptions setup
+# Apollo Server Subscriptions
 
-> Section: `06-subscriptions`
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
+```js
+const { WebSocketServer } = require("ws");
+const { useServer } = require("graphql-ws/lib/use/ws");
+// Integrate with HTTP server
 ```
-
-## References
-
-- 

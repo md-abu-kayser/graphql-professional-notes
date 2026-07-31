@@ -1,23 +1,5 @@
-# Scaling subscriptions with redis kafka
+# Scaling Subscriptions
 
-> Section: `06-subscriptions`
+Use `graphql-redis-subscriptions` or `graphql-kafka-subscriptions` to distribute events across multiple server instances.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: **07-authentication-and-authorization** – [JWT & Context Propagation](../07-authentication-and-authorization/01-jwt-and-context-propagation.md)

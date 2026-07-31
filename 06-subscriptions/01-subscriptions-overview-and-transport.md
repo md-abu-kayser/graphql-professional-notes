@@ -1,23 +1,5 @@
-# Subscriptions overview and transport
+# Subscriptions Overview & Transport
 
-> Section: `06-subscriptions`
+Real‑time updates over WebSocket (or SSE). Use `graphql-ws` protocol. Apollo Server v4+ uses `graphql-ws`.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Apollo Server Subscriptions Setup](02-apollo-server-subscriptions-setup.md)

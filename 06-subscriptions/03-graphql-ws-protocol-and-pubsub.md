@@ -1,23 +1,5 @@
-# Graphql ws protocol and pubsub
+# graphql‑ws Protocol & PubSub
 
-> Section: `06-subscriptions`
+`graphql-ws` is the modern WebSocket sub‑protocol. `PubSub` is an event emitter (in‑memory). Use external broker for production.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Authentication in Subscriptions](04-authentication-in-subscriptions.md)
