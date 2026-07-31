@@ -1,23 +1,5 @@
-# Error handling and union errors pattern
+# Error Handling – Union Errors Pattern
 
-> Section: `14-best-practices-and-patterns`
+Return a union of success and error types: `type Mutation { login(input: LoginInput!): LoginResult! }` where `LoginResult = User | InvalidCredentials`.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Nullability & Partial Data](03-nullability-and-partial-data.md)

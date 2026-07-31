@@ -1,23 +1,5 @@
-# Schema design best practices
+# Schema Design Best Practices
 
-> Section: `14-best-practices-and-patterns`
+Use clear naming, avoid ambiguous types, use non‑null where appropriate, prefer composition over inheritance.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Error Handling & Union Errors Pattern](02-error-handling-and-union-errors-pattern.md)
