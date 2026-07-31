@@ -1,23 +1,19 @@
-# Aliases and fragments
+# Aliases & Fragments
 
-> Section: `03-queries-and-mutations`
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
+Aliases rename fields in response. Fragments avoid duplication:
 
 ```graphql
-
+fragment userFields on User {
+  id
+  name
+  email
+}
+query {
+  user1: user(id: 1) {
+    ...userFields
+  }
+  user2: user(id: 2) {
+    ...userFields
+  }
+}
 ```
-
-## References
-
-- 

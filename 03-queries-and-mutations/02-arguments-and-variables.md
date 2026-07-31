@@ -1,23 +1,9 @@
-# Arguments and variables
-
-> Section: `03-queries-and-mutations`
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
+# Arguments & Variables
 
 ```graphql
-
+query getUser($id: ID!) {
+  user(id: $id) {
+    name
+  }
+}
 ```
-
-## References
-
-- 

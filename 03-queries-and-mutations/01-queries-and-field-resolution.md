@@ -1,23 +1,5 @@
-# Queries and field resolution
+# Queries & Field Resolution
 
-> Section: `03-queries-and-mutations`
+Root `Query` type defines entry points. Each field resolved by a resolver function. Resolution starts from root and cascades.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Arguments & Variables](02-arguments-and-variables.md)

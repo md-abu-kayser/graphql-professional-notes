@@ -1,23 +1,5 @@
-# Nested queries and data loader pattern
+# Nested Queries & Data Loader
 
-> Section: `03-queries-and-mutations`
+Resolvers can fetch related data (e.g., user's posts). DataLoader batches and caches requests to avoid N+1.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Mutations & Input Objects](05-mutations-and-input-objects.md)

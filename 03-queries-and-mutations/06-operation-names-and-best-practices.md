@@ -1,23 +1,5 @@
-# Operation names and best practices
+# Operation Names
 
-> Section: `03-queries-and-mutations`
+Give queries/mutations meaningful names for debugging and logging. Always use.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Introspection System](07-introspection-system.md)

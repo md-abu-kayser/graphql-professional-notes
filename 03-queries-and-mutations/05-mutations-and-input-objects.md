@@ -1,23 +1,5 @@
-# Mutations and input objects
+# Mutations
 
-> Section: `03-queries-and-mutations`
+Root `Mutation` type. Use input objects for arguments. Return the modified object or a status.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Operation Names & Best Practices](06-operation-names-and-best-practices.md)

@@ -1,23 +1,5 @@
-# Introspection system
+# Introspection
 
-> Section: `03-queries-and-mutations`
+`__schema`, `__type`, `__typename`. Enables tools like GraphiQL. Disable in production for security.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: **04-resolvers** – [Resolver Map & Function Signatures](../04-resolvers/01-resolver-map-and-function-signatures.md)
