@@ -1,23 +1,5 @@
-# Nullability and partial data
+# Nullability & Partial Data
 
-> Section: `14-best-practices-and-patterns`
+Use `null` to indicate missing data. Errors can be placed in `errors` array alongside partial data.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Pagination Patterns – Relay Cursor Connections](04-pagination-patterns-relay-cursor-connections.md)

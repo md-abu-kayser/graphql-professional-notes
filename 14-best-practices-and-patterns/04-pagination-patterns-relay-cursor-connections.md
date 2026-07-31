@@ -1,23 +1,5 @@
-# Pagination patterns relay cursor connections
+# Pagination Patterns (Relay Cursor Connections)
 
-> Section: `14-best-practices-and-patterns`
+Standard `edges` / `node` / `pageInfo` pattern. Provides consistency and forward‑only pagination.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Global Object Identification](05-global-object-identification.md)
