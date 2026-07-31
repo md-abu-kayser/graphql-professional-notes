@@ -1,23 +1,5 @@
-# Batch attacks and request whitelisting
+# Batch Attacks & Request Whitelisting
 
-> Section: `09-security`
+Disable batching if not needed, or limit number of queries per batch. Whitelist allowed operations.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Secure Headers & CORS](05-secure-headers-and-cors.md)

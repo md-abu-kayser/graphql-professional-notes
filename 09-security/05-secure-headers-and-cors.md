@@ -1,23 +1,5 @@
-# Secure headers and cors
+# Secure Headers & CORS
 
-> Section: `09-security`
+Set `helmet`‑like headers. Configure CORS appropriately (`credentials`, `origin`).
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: **10-tooling-and-ecosystem** – [GraphQL Code Generator](../10-tooling-and-ecosystem/01-graphql-code-generator.md)
