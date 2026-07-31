@@ -1,23 +1,5 @@
-# Service boundaries and subgraphs
+# Federated Microservices – Service Boundaries
 
-> Section: `12-real-world-projects/05-federated-microservices-architecture`
+Define subgraphs: Users, Products, Orders. Each has its own database.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Apollo Router & Gateway](02-apollo-router-and-gateway.md)

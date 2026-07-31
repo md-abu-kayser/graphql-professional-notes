@@ -1,23 +1,5 @@
-# Apollo router and gateway
+# Apollo Router & Gateway
 
-> Section: `12-real-world-projects/05-federated-microservices-architecture`
+Use `@apollo/gateway` + `@apollo/router` for supergraph. Deployment on Kubernetes.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Observability & Deployment](03-observability-and-deployment.md)

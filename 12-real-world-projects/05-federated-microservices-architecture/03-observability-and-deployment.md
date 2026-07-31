@@ -1,23 +1,5 @@
-# Observability and deployment
+# Observability & Deployment
 
-> Section: `12-real-world-projects/05-federated-microservices-architecture`
+Tracing, metrics, logs per subgraph. CI/CD for schema checks.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: **13-testing** – [Unit Testing Resolvers](../13-testing/01-unit-testing-resolvers.md)
