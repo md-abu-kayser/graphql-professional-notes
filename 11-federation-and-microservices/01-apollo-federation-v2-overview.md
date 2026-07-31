@@ -1,23 +1,5 @@
-# Apollo federation v2 overview
+# Apollo Federation v2 Overview
 
-> Section: `11-federation-and-microservices`
+Compose multiple GraphQL services into a single unified graph. `@apollo/gateway` + `@apollo/subgraph`.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Subgraphs & Entities](02-subgraphs-and-entities.md)
