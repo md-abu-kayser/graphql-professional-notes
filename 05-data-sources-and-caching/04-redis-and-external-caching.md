@@ -1,23 +1,5 @@
-# Redis and external caching
+# Redis & External Caching
 
-> Section: `05-data-sources-and-caching`
+Cache entire query results or individual field values. Invalidate via mutations. Use Apollo Server cache or custom.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Handling N+1 Problem Deep Dive](05-handling-n+1-problem-deep-dive.md)
