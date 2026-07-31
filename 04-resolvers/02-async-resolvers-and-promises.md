@@ -1,23 +1,5 @@
-# Async resolvers and promises
+# Async Resolvers
 
-> Section: `04-resolvers`
+Resolvers can return Promises. GraphQL waits for all promises before returning data.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Resolver Chains – parent, args, context](03-resolver-chains-and-parent-arguments-context.md)

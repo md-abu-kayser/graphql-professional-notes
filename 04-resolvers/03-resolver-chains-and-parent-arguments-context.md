@@ -1,23 +1,5 @@
-# Resolver chains and parent arguments context
+# Resolver Chains
 
-> Section: `04-resolvers`
+`parent` is the result of the parent resolver. `args` are arguments. `context` is shared across resolvers (e.g., auth).
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Default Resolvers](04-default-resolvers.md)

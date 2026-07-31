@@ -1,23 +1,5 @@
-# Resolver map and function signatures
+# Resolver Map & Function Signatures
 
-> Section: `04-resolvers`
+Resolver function signature: `(parent, args, context, info) => value`. Each field can have a resolver.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Async Resolvers & Promises](02-async-resolvers-and-promises.md)
