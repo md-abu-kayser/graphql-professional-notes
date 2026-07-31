@@ -1,23 +1,5 @@
-# Resolvers and data loaders
+# Blog Engine – Resolvers & Data Loaders
 
-> Section: `12-real-world-projects/01-blog-engine-with-graphql`
+Implement resolvers for posts, users, comments. Batch loading.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Authentication & Authorization](03-authentication-and-authorization.md)

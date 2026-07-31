@@ -1,23 +1,5 @@
-# Authentication and authorization
+# Blog Engine – Authentication & Authorization
 
-> Section: `12-real-world-projects/01-blog-engine-with-graphql`
+JWT in context. Role‑based guards on mutations (only author can edit).
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Frontend with Apollo Client](04-frontend-with-apollo-client.md)

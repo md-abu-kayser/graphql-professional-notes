@@ -1,23 +1,5 @@
-# Frontend with apollo client
+# Blog Engine – Frontend
 
-> Section: `12-real-world-projects/01-blog-engine-with-graphql`
+React + Apollo Client. `useQuery` for posts, `useMutation` for creating.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: **Ecommerce GraphQL API** – [Product Catalog & Search](../02-ecommerce-graphql-api/01-product-catalog-and-search.md)

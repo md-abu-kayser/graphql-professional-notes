@@ -1,23 +1,5 @@
-# Schema design and models
+# Blog Engine – Schema Design & Models
 
-> Section: `12-real-world-projects/01-blog-engine-with-graphql`
+Types: `Post`, `User`, `Comment`. Relations: one‑to‑many. Use DataLoader for comments.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Resolvers & Data Loaders](02-resolvers-and-data-loaders.md)
