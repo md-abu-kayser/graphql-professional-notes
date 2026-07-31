@@ -1,23 +1,5 @@
-# Relay modern basics
+# Relay Modern
 
-> Section: `10-tooling-and-ecosystem`
+Facebook's GraphQL client. Forces best practices (persisted queries, fragments, connection pagination). Complex setup.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [URQL & Other Clients](05-urql-and-other-clients.md)

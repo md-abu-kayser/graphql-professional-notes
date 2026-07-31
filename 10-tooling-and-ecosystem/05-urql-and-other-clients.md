@@ -1,23 +1,5 @@
-# Urql and other clients
+# URQL & Other Clients
 
-> Section: `10-tooling-and-ecosystem`
+URQL is lightweight, extensible. Other: `graphql-request`, `@tanstack/react-query` with GraphQL adapter.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [GraphQL Yoga vs Apollo Server](06-graphql-yoga-vs-apollo-server.md)
