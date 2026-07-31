@@ -1,23 +1,5 @@
-# Managed federation and graphos
+# Managed Federation & GraphOS
 
-> Section: `11-federation-and-microservices`
+Apollo GraphOS (formerly Apollo Studio) provides managed federation, schema checks, traffic management.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Versioning & Schema Composition](06-versioning-and-schema-composition.md)

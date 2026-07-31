@@ -1,23 +1,5 @@
-# Graphql mesh and schema stitching
+# GraphQL Mesh & Schema Stitching
 
-> Section: `11-federation-and-microservices`
+GraphQL Mesh unifies various data sources into a single GraphQL API. Schema stitching merges schemas.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Managed Federation & GraphOS](05-managed-federation-and-graphos.md)
