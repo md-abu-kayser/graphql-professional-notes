@@ -1,23 +1,5 @@
-# Contract testing for graphql apis
+# Contract Testing
 
-> Section: `13-testing`
+Pact can be adapted for GraphQL. Ensure provider meets consumer expectations.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: **14-best-practices-and-patterns** – [Schema Design Best Practices](../14-best-practices-and-patterns/01-schema-design-best-practices.md)

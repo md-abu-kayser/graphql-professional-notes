@@ -1,23 +1,5 @@
-# Load testing with k6 or artillery
+# Load Testing
 
-> Section: `13-testing`
+Use k6 with GraphQL support, or Artillery. Simulate real queries, measure latency, throughput.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Contract Testing for GraphQL APIs](05-contract-testing-for-graphql-apis.md)

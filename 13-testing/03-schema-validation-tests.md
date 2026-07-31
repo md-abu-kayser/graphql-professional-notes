@@ -1,23 +1,5 @@
-# Schema validation tests
+# Schema Validation Tests
 
-> Section: `13-testing`
+Test that schema compiles, custom directives are applied correctly.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Load Testing with k6 or Artillery](04-load-testing-with-k6-or-artillery.md)
