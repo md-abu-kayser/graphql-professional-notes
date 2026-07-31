@@ -1,23 +1,5 @@
-# Error handling in resolvers
+# Error Handling in Resolvers
 
-> Section: `04-resolvers`
+Throw errors, or return partial data with `errors` array. Use `GraphQLError` or custom error classes. `formatError` option in Apollo.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Testing Resolvers](06-testing-resolvers.md)
