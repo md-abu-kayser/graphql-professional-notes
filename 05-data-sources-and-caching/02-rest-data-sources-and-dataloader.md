@@ -1,23 +1,5 @@
-# Rest data sources and dataloader
+# REST Data Sources & DataLoader
 
-> Section: `05-data-sources-and-caching`
+Apollo DataSources (RESTDataSource) for connecting to REST APIs. DataLoader deduplicates and batches requests.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Batching & Caching with DataLoader](03-batching-and-caching-with-dataloader.md)

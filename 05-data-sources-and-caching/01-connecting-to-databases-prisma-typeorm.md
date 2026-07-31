@@ -1,23 +1,5 @@
-# Connecting to databases prisma typeorm
+# Connecting to Databases
 
-> Section: `05-data-sources-and-caching`
+Use ORMs like Prisma or TypeORM. Resolvers call service layer which uses ORM. Avoid putting DB logic directly in resolvers.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [REST Data Sources & DataLoader](02-rest-data-sources-and-dataloader.md)

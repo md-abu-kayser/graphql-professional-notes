@@ -1,23 +1,5 @@
-# Batching and caching with dataloader
+# Batching & Caching with DataLoader
 
-> Section: `05-data-sources-and-caching`
+`new DataLoader(batchLoadFn)`. Caches per request by default. Clears when request ends.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Redis & External Caching](04-redis-and-external-caching.md)
