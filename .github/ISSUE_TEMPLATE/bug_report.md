@@ -1,18 +1,16 @@
 ---
 name: Bug report
-about: Report an error or inaccuracy in the notes
-title: '[BUG] '
+about: Report a GraphQL‑related issue
+title: "[BUG] "
 labels: bug
+assignees: ""
 ---
 
-**Describe the issue**
+**Describe the bug**
+**To Reproduce**
+**Expected behavior**
+**Environment:**
 
-A clear description of the inaccuracy or error.
-
-**File / section**
-
-Which note file is affected?
-
-**Suggested fix**
-
-If you have one.
+- GraphQL server library & version:
+- Client:
+- Node.js version:
