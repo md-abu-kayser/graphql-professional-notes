@@ -1,23 +1,7 @@
-# Setting up a graphql server apollo yoga
+# Setting Up a GraphQL Server
 
-> Section: `01-getting-started`
+**Apollo Server** (JavaScript/TypeScript): `npm install @apollo/server graphql`. Define schema and resolvers.
 
-## Overview
+**GraphQL Yoga**: Fast, built on `@graphql-tools` and `graphql-yoga`.
 
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [First Query & GraphiQL / Playground](06-first-query-and-graphiql-playground.md)

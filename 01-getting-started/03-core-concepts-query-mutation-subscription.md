@@ -1,23 +1,7 @@
-# Core concepts query mutation subscription
+# Core Concepts
 
-> Section: `01-getting-started`
+- **Query** – read data.
+- **Mutation** – write/update data.
+- **Subscription** – real‑time updates via WebSocket.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Type System Intro](04-type-system-intro.md)

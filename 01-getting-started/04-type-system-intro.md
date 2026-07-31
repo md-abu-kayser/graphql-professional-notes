@@ -1,23 +1,5 @@
-# Type system intro
+# Type System Intro
 
-> Section: `01-getting-started`
+Schema defines object types, fields, scalars, enums, interfaces, unions. Strongly typed; serves as contract between client and server.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Setting Up a GraphQL Server – Apollo, Yoga](05-setting-up-a-graphql-server-apollo-yoga.md)

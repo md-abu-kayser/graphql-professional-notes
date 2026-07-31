@@ -1,23 +1,9 @@
-# First query and graphiql playground
+# First Query & GraphiQL / Playground
 
-> Section: `01-getting-started`
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
+Run query:
 
 ```graphql
-
+query {
+  hello
+}
 ```
-
-## References
-
-- 
