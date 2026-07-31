@@ -1,23 +1,5 @@
-# Custom auth directives
+# Custom Auth Directives
 
-> Section: `07-authentication-and-authorization`
+Using `@graphql-tools/schema` to apply directives. Or use `mapSchema` to wrap resolvers.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [OAuth 2.0 & Social Login Integration](05-oauth2-and-social-login-integration.md)

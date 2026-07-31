@@ -1,23 +1,5 @@
-# Oauth2 and social login integration
+# OAuth2 & Social Login
 
-> Section: `07-authentication-and-authorization`
+Exchange third‑party token for your app's token. Implement via `Mutation` login or dedicated endpoint.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: **08-performance-optimisation** – [Query Complexity Analysis](../08-performance-optimisation/01-query-complexity-analysis.md)

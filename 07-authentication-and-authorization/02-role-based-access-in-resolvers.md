@@ -1,23 +1,5 @@
-# Role based access in resolvers
+# Role‑Based Access in Resolvers
 
-> Section: `07-authentication-and-authorization`
+Check `context.user.role` inside resolvers or in a higher‑order function. Throw `AuthenticationError` or `ForbiddenError`.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Directive‑Based Permissions](03-directive-based-permissions.md)

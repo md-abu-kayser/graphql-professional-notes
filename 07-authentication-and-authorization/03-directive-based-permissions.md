@@ -1,23 +1,5 @@
-# Directive based permissions
+# Directive‑Based Permissions
 
-> Section: `07-authentication-and-authorization`
+Create custom schema directives `@auth(requires: ADMIN)` that enforce authorization declaratively.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Custom Auth Directives](04-custom-auth-directives.md)

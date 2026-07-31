@@ -1,23 +1,5 @@
-# Jwt and context propagation
+# JWT & Context Propagation
 
-> Section: `07-authentication-and-authorization`
+Extract JWT from HTTP headers, verify, place user in `context`. Available in all resolvers.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Role‑Based Access in Resolvers](02-role-based-access-in-resolvers.md)
