@@ -1,23 +1,5 @@
-# Injection attacks and input validation
+# Injection Attacks & Input Validation
 
-> Section: `09-security`
+Sanitise inputs, use parameterised queries. GraphQL itself prevents some injections due to strict typing, but resolvers may still be vulnerable.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Introspection Disabling in Production](02-introspection-disabling-in-production.md)

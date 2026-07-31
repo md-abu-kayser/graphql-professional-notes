@@ -1,23 +1,5 @@
-# Introspection disabling in production
+# Disabling Introspection
 
-> Section: `09-security`
+In Apollo: `introspection: false` in production. Prevents attackers from discovering schema.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Field‑Level Access Control](03-field-level-access-control.md)
