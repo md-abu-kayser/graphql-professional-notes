@@ -1,23 +1,5 @@
-# Subgraphs and entities
+# Subgraphs & Entities
 
-> Section: `11-federation-and-microservices`
+Each subgraph defines its part of the schema. Entities are types that can be extended and resolved across subgraphs.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Federation Directives – @key, @external, @requires](03-federation-directives-key-external-requires.md)
