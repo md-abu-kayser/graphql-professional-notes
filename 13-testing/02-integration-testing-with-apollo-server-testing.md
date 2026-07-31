@@ -1,23 +1,5 @@
-# Integration testing with apollo server testing
+# Integration Testing
 
-> Section: `13-testing`
+`executeOperation` from `@apollo/server` or `apollo-server-testing`. Full request simulation.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Schema Validation Tests](03-schema-validation-tests.md)

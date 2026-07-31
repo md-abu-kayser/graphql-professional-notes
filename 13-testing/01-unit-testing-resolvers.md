@@ -1,23 +1,5 @@
-# Unit testing resolvers
+# Unit Testing Resolvers
 
-> Section: `13-testing`
+Test resolver function with mock parent, args, context. Use Jest/Vitest.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Integration Testing with Apollo Server Testing](02-integration-testing-with-apollo-server-testing.md)
