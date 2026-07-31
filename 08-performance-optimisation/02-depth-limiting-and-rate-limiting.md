@@ -1,23 +1,5 @@
-# Depth limiting and rate limiting
+# Depth Limiting & Rate Limiting
 
-> Section: `08-performance-optimisation`
+Limit nesting depth. Rate limit per user or per IP to prevent abuse.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Persisted Queries & Automatic Persisted Queries](03-persisted-queries-and-automatic-persisted-queries.md)

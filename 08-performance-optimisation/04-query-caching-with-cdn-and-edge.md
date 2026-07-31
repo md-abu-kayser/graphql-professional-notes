@@ -1,23 +1,5 @@
-# Query caching with cdn and edge
+# Query Caching with CDN / Edge
 
-> Section: `08-performance-optimisation`
+Cache GET requests (with query string) at edge. Use `@cacheControl` directive or Apollo response cache plugin.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Tracing & Monitoring with Apollo Studio](05-tracing-and-monitoring-with-apollo-studio.md)

@@ -1,23 +1,5 @@
-# Batching multiple queries into one request
+# Batching Multiple Queries
 
-> Section: `08-performance-optimisation`
+Send array of operations in one HTTP request (batch HTTP link on client). Reduces round trips.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: **09-security** – [Injection Attacks & Input Validation](../09-security/01-injection-attacks-and-input-validation.md)

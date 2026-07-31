@@ -1,23 +1,5 @@
-# Tracing and monitoring with apollo studio
+# Tracing & Monitoring
 
-> Section: `08-performance-optimisation`
+Apollo Studio provides performance insights, error tracking, field‑level tracing. Integrate with `ApolloServerPluginInlineTrace`.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Batching Multiple Queries into One Request](06-batching-multiple-queries-into-one-request.md)

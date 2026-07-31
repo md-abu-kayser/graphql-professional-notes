@@ -1,23 +1,5 @@
-# Persisted queries and automatic persisted queries
+# Persisted Queries & APQ
 
-> Section: `08-performance-optimisation`
+Send query hash instead of full query. `persistedQuery` extension. Apollo supports APQ.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Query Caching with CDN & Edge](04-query-caching-with-cdn-and-edge.md)

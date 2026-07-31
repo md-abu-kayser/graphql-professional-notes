@@ -1,23 +1,5 @@
-# Query complexity analysis
+# Query Complexity Analysis
 
-> Section: `08-performance-optimisation`
+Assign cost to fields, reject overly expensive queries. Libraries: `graphql-query-complexity`, `graphql-depth-limit`.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Depth Limiting & Rate Limiting](02-depth-limiting-and-rate-limiting.md)
