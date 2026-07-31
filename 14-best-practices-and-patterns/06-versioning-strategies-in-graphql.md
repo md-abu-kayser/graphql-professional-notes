@@ -1,23 +1,5 @@
-# Versioning strategies in graphql
+# Versioning Strategies
 
-> Section: `14-best-practices-and-patterns`
+Avoid versioning; use continuous evolution. Add fields, deprecate old ones (`@deprecated`). Do not remove fields immediately.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: **15-code-snippets** – [apollo-server-setup.ts](../15-code-snippets/apollo-server-setup.ts)

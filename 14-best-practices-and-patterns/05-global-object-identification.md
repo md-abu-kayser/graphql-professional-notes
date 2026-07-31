@@ -1,23 +1,5 @@
-# Global object identification
+# Global Object Identification
 
-> Section: `14-best-practices-and-patterns`
+`id` field globally unique (UUID / base64 encoded type+id). Enables caching, refetching.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Versioning Strategies in GraphQL](06-versioning-strategies-in-graphql.md)
