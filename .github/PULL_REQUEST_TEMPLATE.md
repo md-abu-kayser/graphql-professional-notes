@@ -1,9 +1,15 @@
-## Summary
+## Description
 
-What does this PR add or change?
+Fixes # (issue)
+
+## Type of change
+
+- [ ] Bug fix
+- [ ] New feature
+- [ ] Documentation update
+- [ ] Code refactor
 
 ## Checklist
 
-- [ ] Follows the existing folder/numbering convention
-- [ ] Code snippets tested where applicable
-- [ ] No broken internal links
+- [ ] My code follows style guidelines
+- [ ] I have performed a self-review
