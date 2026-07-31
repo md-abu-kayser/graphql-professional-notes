@@ -1,23 +1,5 @@
-# Graphql code generator
+# GraphQL Code Generator
 
-> Section: `10-tooling-and-ecosystem`
+Automatically generate TypeScript types, hooks (Apollo, URQL), and SDK from schema and operations.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Apollo Client – Setup & Queries](02-apollo-client-setup-and-queries.md)

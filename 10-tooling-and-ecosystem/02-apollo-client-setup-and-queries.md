@@ -1,23 +1,9 @@
-# Apollo client setup and queries
+# Apollo Client Setup & Queries
 
-> Section: `10-tooling-and-ecosystem`
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
+```tsx
+import { ApolloClient, InMemoryCache, ApolloProvider } from "@apollo/client";
+const client = new ApolloClient({
+  uri: "/graphql",
+  cache: new InMemoryCache(),
+});
 ```
-
-## References
-
-- 
