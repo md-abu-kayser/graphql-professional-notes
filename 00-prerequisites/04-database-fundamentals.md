@@ -1,23 +1,5 @@
-# Database fundamentals
+# Database Fundamentals
 
-> Section: `00-prerequisites`
+Relational vs NoSQL. GraphQL resolvers typically fetch data from databases. Understanding queries, joins, and data modelling.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: **01-getting-started** – [What is GraphQL?](../01-getting-started/01-what-is-graphql.md)

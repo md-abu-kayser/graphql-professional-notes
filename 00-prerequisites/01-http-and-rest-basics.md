@@ -1,23 +1,5 @@
-# Http and rest basics
+# HTTP & REST Basics
 
-> Section: `00-prerequisites`
+Understanding HTTP methods, status codes, headers – foundational before diving into GraphQL, which operates over HTTP (usually POST).
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [JSON & Data Serialisation](02-json-and-data-serialisation.md)

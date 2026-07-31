@@ -1,23 +1,5 @@
-# Json and data serialisation
+# JSON & Data Serialisation
 
-> Section: `00-prerequisites`
+GraphQL responses are JSON. Understanding serialisation/deserialisation helps with custom scalars and data transformations.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Node.js & npm Basics](03-nodejs-and-npm-basics.md)

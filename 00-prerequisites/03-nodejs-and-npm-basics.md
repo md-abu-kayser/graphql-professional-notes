@@ -1,23 +1,5 @@
-# Nodejs and npm basics
+# Node.js & npm Basics
 
-> Section: `00-prerequisites`
+Most GraphQL server libraries (Apollo, Yoga) run on Node.js. Package management, modules, async/await.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Database Fundamentals](04-database-fundamentals.md)
