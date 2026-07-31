@@ -1,23 +1,5 @@
-# Post comment schema
+# Social Media Feed – Post/Comment Schema
 
-> Section: `12-real-world-projects/03-social-media-feed`
+Types: `Post`, `Comment`, `Like`. Connection pattern (Relay‑style) for pagination.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Real‑Time Likes with Subscriptions](02-real-time-likes-with-subscriptions.md)

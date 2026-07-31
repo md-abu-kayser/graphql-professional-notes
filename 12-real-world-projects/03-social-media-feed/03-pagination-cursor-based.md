@@ -1,23 +1,5 @@
-# Pagination cursor based
+# Pagination – Cursor‑Based
 
-> Section: `12-real-world-projects/03-social-media-feed`
+Implement `after` cursor, `pageInfo`, `hasNextPage`. Use `connections` spec.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: **Chat App GraphQL Subscriptions** – [Messaging Schema](../04-chat-app-graphql-subscriptions/01-messaging-schema.md)

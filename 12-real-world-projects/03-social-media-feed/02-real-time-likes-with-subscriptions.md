@@ -1,23 +1,5 @@
-# Real time likes with subscriptions
+# Real‑Time Likes
 
-> Section: `12-real-world-projects/03-social-media-feed`
+Subscription on post like count. Use `PubSub`.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+> 📘 Next: [Pagination – Cursor‑based](03-pagination-cursor-based.md)
