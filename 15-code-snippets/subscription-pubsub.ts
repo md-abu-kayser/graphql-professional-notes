@@ -1,4 +1,6 @@
-// Subscription pubsub
-// GraphQL Professional Notes — 15-code-snippets/subscription-pubsub.ts
-
-// TODO: add example implementation
+import { PubSub } from 'graphql-subscriptions';
+const pubsub = new PubSub();
+const resolvers = {
+  Mutation: { addMessage: (_, { input }) => { const msg = ...; pubsub.publish('MESSAGE_ADDED', { messageAdded: msg }); return msg; } },
+  Subscription: { messageAdded: { subscribe: () => pubsub.asyncIterator('MESSAGE_ADDED') } },
+};
