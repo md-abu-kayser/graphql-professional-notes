@@ -1,23 +1,5 @@
-# Common errors and solutions
+# Common Errors & Solutions
 
-> Section: `16-resources-cheatsheets`
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+- `Cannot return null for non‑nullable field` – check resolver return.
+- `Unknown type` – schema not defined or introspection off.
+- N+1 queries – use DataLoader.

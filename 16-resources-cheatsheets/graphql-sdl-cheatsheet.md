@@ -1,23 +1,3 @@
-# Graphql sdl cheatsheet
+# GraphQL SDL Cheatsheet
 
-> Section: `16-resources-cheatsheets`
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```graphql
-
-```
-
-## References
-
-- 
+Type definitions, interfaces, unions, enums, input types, directives, schema definition.
