@@ -1,12 +1,11 @@
 ---
 name: Feature request
-about: Suggest a new topic or section
-title: '[REQUEST] '
-labels: enhancement
+about: Suggest an idea
+title: "[FEATURE] "
+assignees: ""
 ---
 
-**What topic is missing?**
-
-**Why is it useful?**
-
-**Suggested location in the folder structure**
+**Is your feature request related to a problem?**
+**Describe the solution**
+**Alternatives considered**
+**Additional context**
